@@ -4,26 +4,28 @@ Siu H. J. Chan, Jingyi Cai, Lin Wang, Margaret N. Simons-Senftle, Costas D. Mara
 `si_table_2_btx453.xlsx` contains the detailed curation of biomass reactions in the models  
 `si_table_2_btx453.xlsx` contains the information about the conserved metabolite quantities in the models  
 
-iBsu1103V2 |Bacillus subtilis 168|Tanaka et al, 2013
-iAH991 |Bacteroides thetaiotamicron VPI-5482|Heinken et al, 2013. Updated in Heinken & Thiele, 2015a.
-iBif452 |Bifidobacterium adolescentis L2-32|El-Semman et al, 2014
-iCac802 |Clostridium acetobutylicum ATCC 824|Dash et al, 2014
-Yeast7 |Consensus model of yeast|Aung et al, 2013
-Cg_ATCC13032|Corynebacterium glutamicum ATCC13032|Kjeldsen & Nielsen, 2009
-V583 |Enterococcus faecalis V583|Veith et al, 2015
-iJO1366 |Escherichia coli K-12 MG1655|Orth et al, 2011
-iEre400 |Eubacterium rectale ATCC33656|Shoaie et al, 2013
-iFpraus_v1.0 |Faecalibacterium prausnitzii A2-165|Heinken et al, 2014
-iYL1228 |Klebsiella pneumonia MGH 78578|Liao et al, 2011. Updated in Heinken & Thiele, 2015a.
-iLca12A_640 |Lactobacillus casei ATCC 334|Vinay-Lara et al, 2014
-Ll_MG1363|Lactococcus lactis MG1363|Flahaut et al, 2013
-iMT1026 |Pichia pastoris|Tomàs-Gamisans, Ferrer and Albiol, 2016
-iVM679 |Porphyromonas gingivalis W83|Mazumdar et al, 2009
-iMP429 |Streptococcus thermophilus LMG18311|Pastink et al, 2009, Updated in Heinken & Thiele, 2015a.
-SynPCC7942|Synechococcus elongatus PCC7942|Mueller et al., 2017
-iYL619 |Yarrowia lipolytica|Pan and Hua, 2012
-iCyt773 |Cyanothece sp. ATCC 51142|Saha et al., 2012
-iMAC868 |Methanosarcina acetivorans|Nazem‐Bokaee et al., 2016
+Model | Organism | Reference
+--- | --- | ---
+iBsu1103V2 | Bacillus subtilis 168| Tanaka et al, 2013
+iAH991 | Bacteroides thetaiotamicron VPI-5482| Heinken et al, 2013. Updated in Heinken & Thiele, 2015a.
+iBif452 | Bifidobacterium adolescentis L2-32| El-Semman et al, 2014
+iCac802 | Clostridium acetobutylicum ATCC 824| Dash et al, 2014
+Yeast7 | Consensus model of yeast| Aung et al, 2013
+Cg_ATCC13032| Corynebacterium glutamicum ATCC13032| Kjeldsen & Nielsen, 2009
+V583 | Enterococcus faecalis V583| Veith et al, 2015
+iJO1366 | Escherichia coli K-12 MG1655| Orth et al, 2011
+iEre400 | Eubacterium rectale ATCC33656| Shoaie et al, 2013
+iFpraus_v1.0 | Faecalibacterium prausnitzii A2-165| Heinken et al, 2014
+iYL1228 | Klebsiella pneumonia MGH 78578| Liao et al, 2011. Updated in Heinken & Thiele, 2015a.
+iLca12A_640 | Lactobacillus casei ATCC 334| Vinay-Lara et al, 2014
+Ll_MG1363| Lactococcus lactis MG1363| Flahaut et al, 2013
+iMT1026 | Pichia pastoris| Tomàs-Gamisans, Ferrer and Albiol, 2016
+iVM679 | Porphyromonas gingivalis W83| Mazumdar et al, 2009
+iMP429 | Streptococcus thermophilus LMG18311| Pastink et al, 2009, Updated in Heinken & Thiele, 2015a.
+SynPCC7942| Synechococcus elongatus PCC7942| Mueller et al., 2017
+iYL619 | Yarrowia lipolytica| Pan and Hua, 2012
+iCyt773 | Cyanothece sp. ATCC 51142| Saha et al., 2012
+iMAC868 | Methanosarcina acetivorans| Nazem‐Bokaee et al., 2016
 
 **References**  
 Aung HW, Henry SA & Walker LP (2013) Revising the Representation of Fatty Acid, Glycerolipid, and Glycerophospholipid Metabolism in the Consensus Model of Yeast Metabolism. Ind. Biotechnol. 9: 215–228  
